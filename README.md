@@ -1,2 +1,2 @@
-# Meu Portifolio
- primeiro repositorio
+# Meu Portfolio
+Repositorio do meu portfolio
